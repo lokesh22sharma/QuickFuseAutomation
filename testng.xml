@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite">
+  <test name="QuickFuseApp">
+    <classes>
+      <class name="com.pilvo.quickfuseapp.PageFactoryClass">
+        <methods>
+          <include name="createNewApp"/>
+        </methods>
+      </class> <!-- com.pilvo.quickfuseappapp.PageFactoryClass -->
+    </classes>
+  </test> <!--  -->
+</suite> <!-- Default Suite -->

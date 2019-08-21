@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="82977" started-at="2019-08-21T17:25:57Z" finished-at="2019-08-21T17:27:20Z">
+    <groups>
+    </groups>
+    <test name="QuickFuseApp" duration-ms="82977" started-at="2019-08-21T17:25:57Z" finished-at="2019-08-21T17:27:20Z">
+      <class name="com.pilvo.quickfuseapp.PageFactoryClass">
+        <test-method status="PASS" signature="initialized()[pri:0, instance:com.pilvo.quickfuseapp.PageFactoryClass@30c7da1e]" name="initialized" is-config="true" duration-ms="12087" started-at="2019-08-21T22:55:45Z" finished-at="2019-08-21T22:55:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialized -->
+        <test-method status="PASS" signature="createNewApp()[pri:0, instance:com.pilvo.quickfuseapp.PageFactoryClass@30c7da1e]" name="createNewApp" duration-ms="82972" started-at="2019-08-21T22:55:57Z" finished-at="2019-08-21T22:57:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewApp -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.pilvo.quickfuseapp.PageFactoryClass@30c7da1e]" name="teardown" is-config="true" duration-ms="3083" started-at="2019-08-21T22:57:21Z" finished-at="2019-08-21T22:57:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.pilvo.quickfuseapp.PageFactoryClass -->
+    </test> <!-- QuickFuseApp -->
+  </suite> <!-- Default Suite -->
+</testng-results>
